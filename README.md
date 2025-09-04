@@ -4,6 +4,12 @@ Unlocking insights from vendor data to drive **profitability, efficiency, and sm
 
 ---
 
+## 📸 Dashboard Preview  
+
+![Vendor Performance Dashboard](vendor_dashboard.png)
+
+---
+
 ## 🔍 Key Insights & Findings  
 ✨ **Profitability Risks** – Negative profits and extreme freight costs revealed inefficiencies.  
 📦 **Inventory Inefficiencies** – ₹22.71 Crore (≈ $2.71M) worth of unsold stock ties up capital.  
