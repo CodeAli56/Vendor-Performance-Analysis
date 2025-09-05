@@ -2,6 +2,12 @@
 
 Unlocking insights from vendor data to drive **profitability, efficiency, and smarter supply chain decisions**. This project combines **Python, SQL/SQLite, and Power BI** to deliver deep analysis, interactive dashboards, and data-backed recommendations.  
 
+1. Brands for Promotional or Pricing Adjustments
+2. Top Vendors by Sales & Purchase Contribution
+3. Impact of Bulk Purchasing on Cost Savings
+4. Identifying Vendors with Low Inventory Turnover
+5. Profit Margin Comparison: High vs. Low Performing Vendors
+
 ---
 
 ## 📸 Dashboard Preview  
